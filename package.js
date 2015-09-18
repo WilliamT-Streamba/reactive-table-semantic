@@ -1,8 +1,9 @@
 Package.describe({
+  documentation: './README.md',
+  git: "https://github.com/bitio/reactive-table-semantic.git",
+  name: "fcallem:reactive-table-semantic",
   summary: "A reactive table designed for Meteor using Semantic UI",
   version: "0.0.1",
-  name: "fcallem:reactive-table-semantic",
-  git: "https://github.com/bitio/reactive-table-semantic.git"
 });
 
 Package.on_use(function (api) {

@@ -49,7 +49,7 @@ If you're updating to Meteor 0.8.0, note that reactiveTable is now a template wi
 
 Install reactive table:
 
-    meteor add aslagle:reactive-table
+    fcallem:reactive-table-semantic
 
 
 This package adds a template called reactiveTable. Create and subscribe to a collection, and pass it to the template:
